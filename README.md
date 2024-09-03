@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" width="1000" height="400">
+<img src="https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" width="1000" height="350">
 
 <h1 align="center">Hi 👋, I'm Jnanjyoti Bhunia</h1>
 <h3 align="center">A passionate software developer from India</h3>
