@@ -12,15 +12,15 @@
 
 <!-- Profile Views + Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=jnanjyotibhunia&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jnanjyotibhunia&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <a href="https://twitter.com/@jnanjyotibhunia">
-    <img src="https://img.shields.io/twitter/follow/jnanjyotibhunia?logo=twitter&style=flat-square&color=1DA1F2&labelColor=0d1117" alt="Twitter Follow"/>
+    <img src="https://img.shields.io/twitter/follow/jnanjyotibhunia?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" alt="Twitter Follow"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-58A6FF?style=flat-square&logo=react&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" alt="Focus"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/From-India%20🇮🇳-FF9933?style=flat-square" alt="India"/>
+  <img src="https://img.shields.io/badge/Salesforce-Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0d1117" alt="Salesforce"/>
 </p>
 
 </div>
@@ -56,11 +56,11 @@ const jnanjyoti = {
   </a>
   &nbsp;&nbsp;
   <a href="https://www.leetcode.com/jnanjyoti_bhunia_10" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="48" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/jnanjyoti_10" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="48" alt="GeeksforGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:jnanjyotibhunia@gmail.com" target="_blank">
@@ -96,14 +96,7 @@ const jnanjyoti = {
   &nbsp;
   <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" height="40"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/LWC%20(Lightning%20Web%20Components)-E2A615?style=for-the-badge&logo=salesforce&logoColor=white" height="40"/>
-</p>
-<p>
-  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="48" height="48" alt="Salesforce"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="48" height="48" alt="Apex" style="filter: hue-rotate(180deg)"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="48" height="48" alt="LWC" style="filter: hue-rotate(60deg)"/>
+  <img src="https://img.shields.io/badge/LWC-E2A615?style=for-the-badge&logo=salesforce&logoColor=white" height="40"/>
 </p>
 
 ### 🧰 Tools & Platforms
