@@ -1,33 +1,161 @@
-<h1 align="center">Hi 👋, I'm Jnanjyoti Bhunia</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jnanjyotibhunia&label=Profile%20views&color=0e75b6&style=flat" alt="jnanjyotibhunia" /> </p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jnanjyoti%20Bhunia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
 
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+Software+Developer+%F0%9F%9A%80;MERN+Stack+Learner+%F0%9F%8C%B1;Competitive+Programmer+%F0%9F%A7%A9;Always+building+something+new+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
+<br/>
 
-<p align="left"> <a href="https://twitter.com/@jnanjyotibhunia" target="blank"><img src="https://img.shields.io/twitter/follow/jnanjyotibhunia?logo=twitter&style=for-the-badge" alt="@jnanjyotibhunia" /></a> </p>
-
-- 🌱 I’m currently learning **MERN stack**
-
-- 💬 Ask me about **Web development**
-
-- 📫 How to reach me **jnanjyotibhunia@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@jnanjyotibhunia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jnanjyotibhunia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jnanjyoti bhunia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jnanjyoti bhunia" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jnanjyoti_bhunia_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jnanjyoti_bhunia_10" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jnanjyoti_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jnanjyoti_10" height="30" width="40" /></a>
+<!-- Profile Views + Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jnanjyotibhunia&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://twitter.com/@jnanjyotibhunia">
+    <img src="https://img.shields.io/twitter/follow/jnanjyotibhunia?logo=twitter&style=flat-square&color=1DA1F2&labelColor=0d1117" alt="Twitter Follow"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-58A6FF?style=flat-square&logo=react&logoColor=white" alt="Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/From-India%20🇮🇳-FF9933?style=flat-square" alt="India"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnanjyotibhunia&show_icons=true&locale=en&layout=compact" alt="jnanjyotibhunia" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnanjyotibhunia&show_icons=true&locale=en" alt="jnanjyotibhunia" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jnanjyotibhunia&" alt="jnanjyotibhunia" /></p>
+```javascript
+const jnanjyoti = {
+  name:        "Jnanjyoti Bhunia",
+  location:    "India 🇮🇳",
+  currentFocus: "MERN Stack Development",
+  learning:    ["MongoDB", "Express.js", "React", "Node.js"],
+  askMeAbout:  ["Web Development", "JavaScript", "DSA"],
+  contact:     "jnanjyotibhunia@gmail.com",
+  funFact:     "I debug with console.log and I'm not ashamed 😄"
+};
+```
 
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+<p>
+  <a href="https://twitter.com/@jnanjyotibhunia" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" alt="Twitter"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jnanjyoti-bhunia" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/jnanjyoti_bhunia_10" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="48" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/jnanjyoti_10" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="48" alt="GeeksforGeeks"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jnanjyotibhunia@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail"/>
+  </a>
+</p>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💬 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python&theme=dark" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" />
+</p>
+
+### ☁️ Salesforce Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="40"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" height="40"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LWC%20(Lightning%20Web%20Components)-E2A615?style=for-the-badge&logo=salesforce&logoColor=white" height="40"/>
+</p>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="48" height="48" alt="Salesforce"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="48" height="48" alt="Apex" style="filter: hue-rotate(180deg)"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="48" height="48" alt="LWC" style="filter: hue-rotate(60deg)"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=jnanjyotibhunia&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=jnanjyotibhunia&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jnanjyotibhunia/jnanjyotibhunia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jnanjyotibhunia/jnanjyotibhunia/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jnanjyotibhunia/jnanjyotibhunia/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**✨ "Code is like humor. When you have to explain it, it's bad." — Cory House**
+
+⭐ *Feel free to star repositories you find interesting!*
+
+</div>
