@@ -56,11 +56,11 @@ const jnanjyoti = {
   </a>
   &nbsp;&nbsp;
   <a href="https://www.leetcode.com/jnanjyoti_bhunia_10" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="48" height="48" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/jnanjyoti_10" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48" height="48" alt="GeeksforGeeks"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:jnanjyotibhunia@gmail.com" target="_blank">
@@ -112,7 +112,9 @@ const jnanjyoti = {
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=jnanjyotibhunia&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jnanjyotibhunia&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jnanjyotibhunia&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -122,7 +124,7 @@ const jnanjyoti = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jnanjyotibhunia&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=jnanjyotibhunia&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
