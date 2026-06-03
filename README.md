@@ -112,19 +112,9 @@ const jnanjyoti = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jnanjyotibhunia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jnanjyotibhunia&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=jnanjyotibhunia&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jnanjyotibhunia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=jnanjyotibhunia&theme=tokyonight&hide_border=true" />
 
 </div>
 
